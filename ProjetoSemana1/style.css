@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+}
+.cabecalho h1{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 45%;
+}
+.cabecalho{
+    margin: 0px;
+    background-color: rgba(0, 4, 253, 0.747);
+    height: 6%;
+}
+h3{
+    padding-left: 30%;
+}
+.imagemTexto img{
+    width: 100%
+}
+.imagemTexto {
+    width: 50%
+}
+.conteudo{
+    display: flex;
+    flex-flow: row wrap;
+}
+.texto{
+    width: 30%;
+    padding-left: 2%;
+}
+.texto2{
+    font-size: 20px;
+}
+.textoCabecalho{
+    text-align: center;
+    width: 30%;
+    margin-left: 40%;
+}
+.meio{
+    margin-left: 10%;
+}
+.dados img{
+    width: 70%;
+}
+.dados{ 
+    margin-top: 5%;
+    margin-left: 30%;
+}
