@@ -1,0 +1,88 @@
+body{
+    margin: 0px;
+}
+.capa{
+    background-image: url(/ProjetoSemana2/img/fundo.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 970px;
+}
+
+.capa h1{
+    margin-bottom: 3%;
+}
+
+.capa a{
+    text-decoration: none;
+    background: transparent;
+    color: white;
+    border: 1px white solid;
+    padding: 10px 20px 10px 20px;
+    border-radius: 12%;
+    text-align: center;
+    margin-left: 890px;
+
+}
+.baixoTraço{
+    margin: 0px;
+    color: white;
+    font-size: 30px;
+    text-align:center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.conteudoCapa{
+    margin: 0px;
+    padding-top: 15%;
+    margin-right: 35%;
+    margin-left: 35%;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+}
+.container{
+    background-color: rgba(216, 203, 132, 0.651);
+    width: 100%;
+    height: 395px;
+    display: flex;
+}
+.video{
+    margin-top: 3%;
+    margin-bottom: 10%;
+    margin-left: 2%;
+}
+.textoVideo h3{
+    font-size: 30px;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 5%;
+    text-align: center;
+}
+.textoVideo p{
+    font-size: 20px;
+    margin-left: 3%;
+    text-align: left;
+}
+.icone{
+    width: 58px;
+}
+.selecao div{
+    width: 200px;
+    margin-left: 10%;
+}
+
+.selecao{
+    margin-top: 3%;
+    display: flex;
+    --flex-flow: row wrap;
+}
+.selecao img{
+    margin-left: 40%;
+}
+.selecao h4{
+    font-size: 25px;
+    margin-left: 30%;
+}
+.selecao p{
+    text-align: center;
+}
